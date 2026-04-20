@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/whatsapp-web-clone/config
+/.vs/whatsapp-web-clone/CopilotIndices/17.14.1641.39856
+/.vs/whatsapp-web-clone/FileContentIndex
+/.vs/whatsapp-web-clone/v16
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/whatsapp-web-clone/v17/.wsuo
+/.vs/whatsapp-web-clone/v17/DocumentLayout.backup.json
+/.vs/whatsapp-web-clone/v17/DocumentLayout.json
